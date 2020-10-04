@@ -1,6 +1,6 @@
 ![Planet Arcadia(1).png](https://github.com/PaulKillian/PaulKillian/blob/main/Planet%20Arcadia%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Paul Killain</h1>
+<h1 align="center">Hi 👋, I'm Paul Killian</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
 <h3 align="left">Languages and Tools:</h3>
