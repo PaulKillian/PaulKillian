@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Paul Killian</h1>
 <h3 align="center">A passionate full stack web developer from California</h3>
 <h4 align="center">https://www.linkedin.com/in/paul-killian/</h4>
-<h4 align="center">https://www.zeal-creative.com</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulkillian&layout=compact" alt="paulkillian" /></p>
 
