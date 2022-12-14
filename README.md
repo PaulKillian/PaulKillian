@@ -7,3 +7,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulkillian&layout=compact" alt="paulkillian" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=paulkillian&show_icons=true" alt="paulkillian" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
