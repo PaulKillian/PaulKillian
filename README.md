@@ -1,4 +1,4 @@
-![Planet Arcadia(1).png](https://github.com/PaulKillian/PaulKillian/blob/main/[20250804_2103_Cosmic Energy Burst_simple_compose_01k1w6awveekmbqt4tvj3xkg9h.png](https://github.com/PaulKillian/PaulKillian/blob/main/20250804_2103_Cosmic%20Energy%20Burst_simple_compose_01k1w6awveekmbqt4tvj3xkg9h.png)
+![Planet Arcadia(1).png](https://github.com/PaulKillian/PaulKillian/blob/main/20250804_2103_Cosmic%20Energy%20Burst_simple_compose_01k1w6awveekmbqt4tvj3xkg9h.png)
 
 <h1>Hi 👋, I'm Paul Killian</h1>
 <h3>A passionate full stack web developer from California</h3>
